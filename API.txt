@@ -1,0 +1,1 @@
+get your API key from groq and paste it here
